@@ -24,6 +24,10 @@ td {
   padding-left: 10%;
 }
 
+tr:nth-child(even) {
+  background-color: lightgray;
+}
+
 h1,
 h2,
 h3,
