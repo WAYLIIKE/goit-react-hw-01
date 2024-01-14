@@ -17,7 +17,11 @@ th {
 thead {
   background-color: #474747;
   color: white;
-  text-align: center;
+}
+
+td {
+  text-align: start;
+  padding-left: 10%;
 }
 
 h1,
